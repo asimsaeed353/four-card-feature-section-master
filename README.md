@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-using-css-fuvFxY_nxo)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/four-card-feature-section-master/)
 
 ## My process
 
