@@ -39,7 +39,10 @@ body{
 }
 
 .top{
-    gap: 0.2rem; 
+
+    h2{
+        font-size: 1.5rem;
+    }
 
     p{
         margin-top: 0.65rem;
@@ -48,11 +51,9 @@ body{
 
 .top h2:nth-child(1){
     font-weight: var(--fw-light);
-    word-spacing: 0.4rem;
 }
 .top h2:nth-child(2){
     font-weight: var(--fw-bold);
-    word-spacing: 0.4rem;
 }
 
 
@@ -126,6 +127,10 @@ h2{
     
     .top{
         text-align: center;
+
+        h2{
+            font-size: 1.75rem;
+        }
     }
 
     .top p{
